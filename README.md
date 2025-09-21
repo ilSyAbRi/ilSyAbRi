@@ -8,19 +8,21 @@ to explore everything, test everything, and see how things work.
 ---
 
 ## 🚀 Currently Learning
-- C Programming  
-- Makefiles  
-- Memory Management  
+- 💻 C Programming  
+- 🐧 Linux  
+- 📝 Makefiles  
 
 ---
 
 ## 🧠 Interests
-- Exploring new ideas  
-- Algorithms and problem solving  
-- Understanding how things work  
+- 💡 Exploring new ideas  
+- 📊 Algorithms and problem solving  
+- 🔍 Understanding how things work  
 
 ---
 
+---  
+
 ## 🎯 My Goal
-Keep playing with programming, discovering new possibilities,  
-and learning something new every day.
+- 🎨 Keep playing with programming, discovering new possibilities,  
+  and learning something new every day.

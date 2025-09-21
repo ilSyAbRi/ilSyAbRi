@@ -21,10 +21,10 @@ to explore everything, test everything, and see how things work.
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyiLiAsS&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyiLiAsS&layout=compact&theme=radical)
-
 ## 🎯 My Goal
 - 🎨 Keep playing with programming, discovering new possibilities,  
   and learning something new every day.
+
+  ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilSyAbRi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilSyAbRi&layout=compact&theme=radical)

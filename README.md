@@ -8,9 +8,9 @@ to explore everything, test everything, and see how things work.
 ---
 
 ## 🚀 Currently Learning
-- 💻 C Programming  
-- 🐧 Linux  
-- 📝 Makefiles  
+![C Programming](https://img.shields.io/badge/C-Blue?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Makefiles](https://img.shields.io/badge/Makefile-FF5733?style=for-the-badge&logo=gnu&logoColor=white) 
 
 ---
 

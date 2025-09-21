@@ -1,32 +1,43 @@
-![Header Banner](https://raw.githubusercontent.com/ilSyAbRi/ilSyAbRi/main/banner6.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ilSyAbRi/ilSyAbRi/main/banner6.png" alt="Header Banner" />
+</p>
 
-Yo, I am Iliass Syabri, a kid who wants to play.  
-I found I can bring the kid inside me into programming.
-or the kid who is inside is the one who guides me here (:
+<h2 align="center">Yo, I am Iliass Syabri 👋</h2>
+
+<p align="center">
+I am a kid who wants to play.<br>
+I found I can bring the kid inside me into programming — or maybe the kid inside is the one guiding me here (:)  
 to explore everything, test everything, and see how things work.
+</p>
 
 ---
 
 ## 🚀 Currently Learning
-![C Programming](https://img.shields.io/badge/C-Blue?style=for-the-badge&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Makefiles](https://img.shields.io/badge/Makefile-FF5733?style=for-the-badge&logo=gnu&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/C-87CEEB?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FFD1DC?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Makefiles-DDA0DD?style=for-the-badge&logo=gnu&logoColor=black" />
+</p>
 
 ---
 
 ## 🧠 Interests
-💡 Exploring new ideas  
-📊 Algorithms and problem solving  
-🔍 Understanding how things work  
+<p align="center">
+💡 Exploring new ideas • 📊 Algorithms & Problem Solving • 🔍 Understanding how things work  
+</p>
 
 ---
 
 ## 🎯 My Goal
-🎨 Keep playing with programming, discovering new possibilities,  
+<p align="center">
+🎨 Keep playing with programming, discovering new possibilities,<br>
 and learning something new every day.
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilSyAbRi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilSyAbRi&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilSyAbRi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilSyAbRi&layout=compact&theme=tokyonight" />
+</p>

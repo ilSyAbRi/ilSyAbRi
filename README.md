@@ -41,3 +41,10 @@ and learning something new every day.
   <img src="https://github-readme-stats.vercel.app/api?username=ilSyAbRi&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilSyAbRi&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+## 📈 Contributions
+<p align="center">
+  <img src="https://github.com/ilSyAbRi/ilSyAbRi/blob/output/github-contribution-grid-snake.svg" />
+</p>

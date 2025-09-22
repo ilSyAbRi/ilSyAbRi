@@ -42,8 +42,6 @@ and learning something new every day.
   <img src="https://github-readme-stats.vercel.app/api?username=ilSyAbRi&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilSyAbRi&layout=compact&theme=tokyonight" />
 </p>
-
-## 📈 Contributions
 <p align="center">
   <img src="https://ghchart.rshah.org/ilSyAbRi?bg_color=282828&color=FABD2F&line=504945&point=665C54" />
 </p>

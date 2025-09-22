@@ -41,24 +41,27 @@ and learning something new every day.
   <img src="https://github-readme-stats.vercel.app/api?username=ilSyAbRi&show_icons=true&count_private=true&theme=gruvbox&hide_border=false&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilSyAbRi&layout=compact&theme=gruvbox" />
 </p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/ilSyAbRi?bg_color=282828&color=FABD2F&line=504945&point=83A598&years=5" alt="Multi-Year Contributions" />
+  <br>
+  <small>📅 Multi-Year Activity (last 5 years)</small>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilSyAbRi&theme=react-dark&hide_border=true&bg_color=282828&color=FABD2F&line=D3869B&point=FF79C6" alt="Weekly Contribution Graph" />
+  <br>
+  <small>📈 Weekly Activity (last 7 days)</small>
+</p>
 
 ---
 
-## 📈 Contributions Over Time
-<p align="center">
-  <img src="https://ghchart.rshah.org/ilSyAbRi?bg_color=282828&color=FABD2F&line=504945&point=83A598&years=5" alt="Multi-Year Contributions" />
-</p>
-
+## 🔥 Contribution Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilSyAbRi&theme=gruvbox&hide_border=false" alt="Contribution Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilSyAbRi&theme=gruvbox" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilSyAbRi&theme=gruvbox&hide_border=true&bg_color=282828&color=FABD2F&line=D3869B&point=83A598" alt="Weekly Contribution Graph" />
 </p>
 
 ---

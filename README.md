@@ -46,5 +46,5 @@ and learning something new every day.
 
 ## 📈 Contributions
 <p align="center">
-  <img src="https://github.com/ilSyAbRi/ilSyAbRi/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://ghchart.rshah.org/ilSyAbRi?bg_color=282828&color=FABD2F&line=504945&point=665C54" />
 </p>

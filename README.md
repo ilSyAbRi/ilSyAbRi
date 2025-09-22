@@ -52,7 +52,7 @@ and learning something new every day.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilSyAbRi&theme=react-dark&hide_border=false&bg_color=282828&color=FABD2F&line=D3869B&point=FF79C6" alt="Weekly Contribution Graph" />
   <br>
-  <small>📆 Weekly Activity (last 7 days)</small>
+  <small>📆 Weekly Activity </small>
 </p>
 
 ---

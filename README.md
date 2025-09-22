@@ -69,11 +69,13 @@ and learning something new every day.
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilSyAbRi&theme=gruvbox" />
 </p>
+## 📫 Let's Connect
+
 <p align="center">
-  <a href="https://linkedin.com/in/iliass-syabri-a0a5a1373/" target="_blank">
+  <a href="https://www.linkedin.com/in/iliass-syabri-a0a5a1373/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:iliasssyabri1@gmail.com" target="_blank">
+  <a href="mailto:iliasssyabri1@gmail.com?subject=Hi%20Iliass&body=Hello%20Iliass!" target="_blank">
     <img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>

@@ -2,21 +2,21 @@
   <img src="https://raw.githubusercontent.com/ilSyAbRi/ilSyAbRi/main/banner6.png" alt="Header Banner" />
 </p>
 
-<h2 align="center">✨ Yo, I'm Iliass Syabri 👋</h2>
+<h2 align="center">Yo, I am Iliass Syabri 👋</h2>
 
 <p align="center">
-I am a kid who loves to play.<br>
-Programming lets me keep that inner child alive — curious, playful, and always asking *"what happens if...?"*<br>
-I explore, break, and rebuild things just to see how they work.
+I am a kid who wants to play.<br>
+I found I can bring the kid inside me into programming — or maybe the kid inside is the one guiding me here (:)<br>
+to explore everything, test everything, and see how things work.
 </p>
 
 ---
 
 ## 🚀 Currently Learning
 <p align="center">
-  <img src="https://img.shields.io/badge/C-87CEEB?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux-FFD1DC?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Makefiles-C084FC?style=for-the-badge&logo=gnu&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-83A598?style=for-the-badge&logo=c&logoColor=282828" />
+  <img src="https://img.shields.io/badge/Linux-FABD2F?style=for-the-badge&logo=linux&logoColor=282828" />
+  <img src="https://img.shields.io/badge/Makefiles-D3869B?style=for-the-badge&logo=gnu&logoColor=282828" />
 </p>
 
 ---
@@ -38,21 +38,36 @@ and learning something new every day.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilSyAbRi&show_icons=true&count_private=true&include_all_commits=true&title_color=87CEEB&text_color=FFD1DC&icon_color=F5A623&bg_color=0d1117&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilSyAbRi&layout=compact&title_color=C084FC&text_color=FFD1DC&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilSyAbRi&show_icons=true&count_private=true&theme=gruvbox&hide_border=false&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilSyAbRi&layout=compact&theme=gruvbox" />
+</p>
+
+---
+
+## 📈 Contributions Over Time
+<p align="center">
+  <img src="https://ghchart.rshah.org/ilSyAbRi?bg_color=282828&color=FABD2F&line=504945&point=83A598&years=5" alt="Multi-Year Contributions" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilSyAbRi&theme=dark&background=0d1117&ring=F5A623&fire=FFD1DC&currStreakLabel=87CEEB&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilSyAbRi&theme=gruvbox&hide_border=false" alt="Contribution Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilSyAbRi&theme=gruvbox" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilSyAbRi&theme=gruvbox&hide_border=true&bg_color=282828&color=FABD2F&line=D3869B&point=83A598" alt="Weekly Contribution Graph" />
 </p>
 
 ---
 
 ## 🏆 Extra Contributions & Activity
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs-1234-87CEEB?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Issues-456-FFD1DC?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Followers-123-F5A623?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/PRs-25-83A598?style=for-the-badge&logo=git&logoColor=282828" />
+  <img src="https://img.shields.io/badge/Issues-12-FABD2F?style=for-the-badge&logo=github&logoColor=282828" />
+  <img src="https://img.shields.io/badge/Followers-123-D3869B?style=for-the-badge&logo=github&logoColor=282828" />
 </p>
 
 ---
@@ -60,12 +75,12 @@ and learning something new every day.
 ## 🌟 Top Repositories
 <p align="center">
   <a href="https://github.com/ilSyAbRi/REPO1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilSyAbRi&repo=REPO1&title_color=87CEEB&text_color=FFD1DC&bg_color=0d1117&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilSyAbRi&repo=REPO1&bg_color=282828&title_color=FABD2F&text_color=EBDBB2&icon_color=83A598" />
   </a>
   <a href="https://github.com/ilSyAbRi/REPO2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilSyAbRi&repo=REPO2&title_color=FFD1DC&text_color=C084FC&bg_color=0d1117&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilSyAbRi&repo=REPO2&bg_color=282828&title_color=FABD2F&text_color=EBDBB2&icon_color=83A598" />
   </a>
   <a href="https://github.com/ilSyAbRi/REPO3" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilSyAbRi&repo=REPO3&title_color=F5A623&text_color=FFD1DC&bg_color=0d1117&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilSyAbRi&repo=REPO3&bg_color=282828&title_color=FABD2F&text_color=EBDBB2&icon_color=83A598" />
   </a>
 </p>

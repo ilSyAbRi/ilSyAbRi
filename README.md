@@ -61,6 +61,9 @@ and learning something new every day.
   <img src="https://img.shields.io/badge/42_School-1337-FABD2F?style=for-the-badge&logo=42&logoColor=282828" />
   <br>
   <small>📚 Currently learning and practicing programming at 42 school / 1337 Espaces</small>
+  <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilSyAbRi&theme=gruvbox" />
+</p>
 </p>
 
 ## 📫 Contact & Social

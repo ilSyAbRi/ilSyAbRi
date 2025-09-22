@@ -6,7 +6,7 @@
 
 <p align="center">
 I am a kid who wants to play.<br>
-I found I can bring the kid inside me into programming — or maybe the kid inside is the one guiding me here (:  
+I found I can bring the kid inside me into programming — or maybe the kid inside is the one guiding me here (:)<br>
 to explore everything, test everything, and see how things work.
 </p>
 
@@ -40,4 +40,11 @@ and learning something new every day.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ilSyAbRi&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilSyAbRi&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Flow
+<p align="center">
+  <img src="https://github.com/ilSyAbRi/ilSyAbRi/blob/output/github-contribution-grid-snake.svg" />
 </p>

@@ -1,0 +1,20 @@
+name: GitHub Contribution Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # runs every day at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate Contribution Snake
+        uses: githubcontribs/github-contribution-snake-action@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # optional colors: adjust to soft theme
+          snake_color: "#FFB3E6"
+          border_color: "#A2CFFE"
+          background_color: "#D9B3FF"

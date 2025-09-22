@@ -38,11 +38,10 @@ and learning something new every day.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilSyAbRi&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilSyAbRi&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilSyAbRi&show_icons=true&count_private=true&theme=gruvbox&hide_border=false&include_all_commits=true" />
 </p>
 
-## 📈 Contributions
+## 🛠 Top Languages
 <p align="center">
-  <img src="https://ghchart.rshah.org/ilSyAbRi?bg_color=282828&color=FABD2F&line=504945&point=665C54" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilSyAbRi&layout=compact&theme=gruvbox" />
 </p>

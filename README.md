@@ -56,30 +56,12 @@ and learning something new every day.
 </p>
 
 ---
-
-## 🏆 Extra Contributions & Activity
+## 🎓 Education
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs-25-83A598?style=for-the-badge&logo=git&logoColor=282828" />
-  <img src="https://img.shields.io/badge/Issues-12-FABD2F?style=for-the-badge&logo=github&logoColor=282828" />
-  <img src="https://img.shields.io/badge/Followers-123-D3869B?style=for-the-badge&logo=github&logoColor=282828" />
+  <img src="https://img.shields.io/badge/42_School-1337-FABD2F?style=for-the-badge&logo=42&logoColor=282828" />
+  <br>
+  <small>📚 Currently learning and practicing programming at 42 school / 1337 Espaces</small>
 </p>
-
----
-
-## 🌟 Top Repositories
-<p align="center">
-  <a href="https://github.com/ilSyAbRi/REPO1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilSyAbRi&repo=REPO1&bg_color=282828&title_color=FABD2F&text_color=EBDBB2&icon_color=83A598" />
-  </a>
-  <a href="https://github.com/ilSyAbRi/REPO2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilSyAbRi&repo=REPO2&bg_color=282828&title_color=FABD2F&text_color=EBDBB2&icon_color=83A598" />
-  </a>
-  <a href="https://github.com/ilSyAbRi/REPO3" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilSyAbRi&repo=REPO3&bg_color=282828&title_color=FABD2F&text_color=EBDBB2&icon_color=83A598" />
-  </a>
-</p>
-
----
 
 ## 📫 Contact & Social
 <p align="center">

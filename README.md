@@ -46,5 +46,5 @@ and learning something new every day.
 
 ## 🐍 Contribution Flow
 <p align="center">
-  <img src="https://github.com/ilSyAbRi/ilSyAbRi/blob/output/github-contribution-grid-snake.svg" />
+  ![GitHub Contributions](https://ghchart.rshah.org/ilSyAbRi)
 </p>

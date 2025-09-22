@@ -1,9 +1,7 @@
 name: Contribution Snake
 
 on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+  workflow_dispatch:  # manual run only for fast testing
 
 jobs:
   generate:
@@ -15,4 +13,15 @@ jobs:
         with:
           node-version: '18'
       - name: Generate Snake
-        run: npx github-contribution-snake --color "#FABD2F" --border "#504945" --bg "#282828" --output "./github-contribution-grid-snake.svg"
+        run: npx github-contribution-snake \
+             --color "#FABD2F" \
+             --border "#504945" \
+             --bg "#282828" \
+             --output "github-contribution-grid-snake.svg"
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add github-contribution-grid-snake.svg
+          git commit -m "Update contribution snake"
+          git push

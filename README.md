@@ -70,7 +70,7 @@ and learning something new every day.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilSyAbRi&theme=gruvbox" />
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/iliasssyabri" target="_blank">
+  <a href="https://linkedin.com/in/iliass-syabri-a0a5a1373/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:iliasssyabri1@gmail.com" target="_blank">

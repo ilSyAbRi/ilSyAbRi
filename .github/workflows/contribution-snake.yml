@@ -2,7 +2,7 @@ name: Contribution Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # runs daily
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -10,10 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Generate Contribution Snake
-        uses: githubcontribs/github-contribution-snake-action@v1
+      - name: Install Node.js
+        uses: actions/setup-node@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          snake_color: "#FABD2F"      # Gruvbox yellow
-          border_color: "#504945"     # Gruvbox dark gray
-          background_color: "#282828" # Gruvbox dark background
+          node-version: '18'
+      - name: Generate Snake
+        run: npx github-contribution-snake --color "#FABD2F" --border "#504945" --bg "#282828" --output "./github-contribution-grid-snake.svg"

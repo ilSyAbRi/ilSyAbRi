@@ -6,7 +6,7 @@
 
 <p align="center">
 I am a kid who wants to play.<br>
-I found I can bring the kid inside me into programming — or maybe the kid inside is the one guiding me here (:)<br>
+I found I can bring the kid inside me into programming — or maybe the kid inside is the one guiding me here (:<br>
 to explore everything, test everything, and see how things work.
 </p>
 

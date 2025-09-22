@@ -8,11 +8,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Generate Contribution Snake
-        uses: githubcontribs/github-contribution-snake-action@v1
+      - name: Install Node.js
+        uses: actions/setup-node@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          snake_color: "#FABD2F"
-          border_color: "#504945"
-          background_color: "#282828"
-          output_path: "github-contribution-grid-snake.svg"
+          node-version: '18'
+      - name: Generate Contribution Snake
+        run: npx github-contribution-snake \
+             --snake-color "#FABD2F" \
+             --border-color "#504945" \
+             --background-color "#282828" \
+             --output "github-contribution-grid-snake.svg"
+      - name: Commit & Push SVG
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add github-contribution-grid-snake.svg
+          git commit -m "Update contribution snake" || echo "No changes"
+          git push

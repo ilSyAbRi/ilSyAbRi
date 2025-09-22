@@ -14,9 +14,9 @@ to explore everything, test everything, and see how things work.
 
 ## 🚀 Currently Learning
 <p align="center">
-  <img src="https://img.shields.io/badge/C-87CEEB?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux-FFD1DC?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Makefiles-DDA0DD?style=for-the-badge&logo=gnu&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-83A598?style=for-the-badge&logo=c&logoColor=282828" />
+  <img src="https://img.shields.io/badge/Linux-FABD2F?style=for-the-badge&logo=linux&logoColor=282828" />
+  <img src="https://img.shields.io/badge/Makefiles-D3869B?style=for-the-badge&logo=gnu&logoColor=282828" />
 </p>
 
 ---
@@ -42,21 +42,28 @@ and learning something new every day.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilSyAbRi&layout=compact&theme=gruvbox" />
 </p>
 
+---
+
+## 📈 Contributions Over Time
 <p align="center">
-  <img src="https://ghchart.rshah.org/ilSyAbRi?bg_color=282828&color=FABD2F&line=504945&point=665C54&years=5" alt="Multi-Year Contributions" />
+  <img src="https://ghchart.rshah.org/ilSyAbRi?bg_color=282828&color=FABD2F&line=504945&point=83A598&years=5" alt="Multi-Year Contributions" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilSyAbRi&theme=gruvbox&hide_border=false" alt="Contribution Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilSyAbRi&theme=gruvbox" />
+</p>
+
 ---
 
 ## 🏆 Extra Contributions & Activity
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs-%231234-blue?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Issues-%23456-red?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Followers-123-green?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/PRs-25-83A598?style=for-the-badge&logo=git&logoColor=282828" />
+  <img src="https://img.shields.io/badge/Issues-12-FABD2F?style=for-the-badge&logo=github&logoColor=282828" />
+  <img src="https://img.shields.io/badge/Followers-123-D3869B?style=for-the-badge&logo=github&logoColor=282828" />
 </p>
 
 ---
@@ -64,12 +71,12 @@ and learning something new every day.
 ## 🌟 Top Repositories
 <p align="center">
   <a href="https://github.com/ilSyAbRi/REPO1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilSyAbRi&repo=REPO1&theme=gruvbox" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilSyAbRi&repo=REPO1&bg_color=282828&title_color=FABD2F&text_color=EBDBB2&icon_color=83A598" />
   </a>
   <a href="https://github.com/ilSyAbRi/REPO2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilSyAbRi&repo=REPO2&theme=gruvbox" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilSyAbRi&repo=REPO2&bg_color=282828&title_color=FABD2F&text_color=EBDBB2&icon_color=83A598" />
   </a>
   <a href="https://github.com/ilSyAbRi/REPO3" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilSyAbRi&repo=REPO3&theme=gruvbox" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilSyAbRi&repo=REPO3&bg_color=282828&title_color=FABD2F&text_color=EBDBB2&icon_color=83A598" />
   </a>
 </p>

@@ -59,12 +59,15 @@ and learning something new every day.
 ## 🎓 Education
 <p align="center">
   <img src="https://img.shields.io/badge/42_School-1337-FABD2F?style=for-the-badge&logo=42&logoColor=282828" />
-  <br>
-  <small>📚 Exploring, experimenting, failing, and trying — I discovered 42 School / 1337 Espaces as a new playground for adventure 🎨🚀💡
-</small>
-  <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilSyAbRi&theme=gruvbox" />
+  <br><br>
+  <small>
+    📚 Exploring. Experimenting. Failing. Trying.<br>
+    I discovered 42 School / 1337 Espaces as a new playground for adventure 🎨🚀💡
+  </small>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilSyAbRi&theme=gruvbox" />
 </p>
 
 ## 📫 Contact & Social

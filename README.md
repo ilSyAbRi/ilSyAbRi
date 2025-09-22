@@ -41,10 +41,3 @@ and learning something new every day.
   <img src="https://github-readme-stats.vercel.app/api?username=ilSyAbRi&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilSyAbRi&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-## 🐍 Contribution Flow
-<p align="center">
-  ![GitHub Contributions](https://ghchart.rshah.org/ilSyAbRi)
-</p>

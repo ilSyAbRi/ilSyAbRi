@@ -69,7 +69,7 @@ and learning something new every day.
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilSyAbRi&theme=gruvbox" />
 </p>
-## 📫 Let's Connect
+ 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iliass-syabri-a0a5a1373/" target="_blank">
@@ -78,7 +78,7 @@ and learning something new every day.
   <br><br>
   📧 <a href="mailto:iliasssyabri1@gmail.com">iliasssyabri1@gmail.com</a>
 </p>
----
+ 📝 License
 <p align="center">
-© 2025 ilSyAbRi | Licensed under MIT
+  ⚖️ This project is licensed under the <a href="./LICENSE">MIT License</a>.
 </p>

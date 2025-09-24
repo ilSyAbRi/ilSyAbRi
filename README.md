@@ -78,3 +78,7 @@ and learning something new every day.
   <br><br>
   📧 <a href="mailto:iliasssyabri1@gmail.com">iliasssyabri1@gmail.com</a>
 </p>
+---
+<p align="center">
+© 2025 ilSyAbRi | Licensed under MIT
+</p>

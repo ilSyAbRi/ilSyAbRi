@@ -82,3 +82,10 @@ and learning something new every day.
 <p align="center">
   ⚖️ This project is licensed under the <a href="./LICENSE">MIT License</a>.
 </p>
+<p align="center">
+  <img src="./assets/yo.gif" alt="GIF" width="800">
+</p>
+
+
+
+

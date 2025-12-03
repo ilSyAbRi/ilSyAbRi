@@ -78,10 +78,9 @@ and learning something new every day.
   <br><br>
   📧 <a href="mailto:iliasssyabri1@gmail.com">iliasssyabri1@gmail.com</a>
 </p>
- 📝 License
-<p align="center">
-  ⚖️ This project is licensed under the <a href="./LICENSE">MIT License</a>.
-</p>
+
+---
+
 <p align="center">
   <img src="./assets/yo.gif" alt="GIF" width="800">
 </p>

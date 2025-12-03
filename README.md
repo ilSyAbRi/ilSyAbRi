@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ilSyAbRi/ilSyAbRi/main/banner6.png" alt="Header Banner" />
+  <img src="./assets/yo.gif" alt="GIF" width="800">
 </p>
+
 
 <h2 align="center">Yo, I am Iliass Syabri 👋</h2>
 
@@ -72,11 +73,6 @@ and learning something new every day.
 
 
 ---
-
-<p align="center">
-  <img src="./assets/yo.gif" alt="GIF" width="800">
-</p>
-
 
  📫 Let's Connect
 

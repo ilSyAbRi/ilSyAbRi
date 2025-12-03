@@ -69,6 +69,15 @@ and learning something new every day.
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilSyAbRi&theme=gruvbox" />
 </p>
+
+
+---
+
+<p align="center">
+  <img src="./assets/yo.gif" alt="GIF" width="800">
+</p>
+
+
  📫 Let's Connect
 
 <p align="center">
@@ -78,13 +87,4 @@ and learning something new every day.
   <br><br>
   📧 <a href="mailto:iliasssyabri1@gmail.com">iliasssyabri1@gmail.com</a>
 </p>
-
----
-
-<p align="center">
-  <img src="./assets/yo.gif" alt="GIF" width="800">
-</p>
-
-
-
 

@@ -1,11 +1,17 @@
 
   <img src="./assets/gruv5.gif" alt="GIF" width="100%">
 
-<div align = "right">
+<div align="right">
   
-<a href="https://www.pinterest.com/ilta222/"><h6> by ilta</h6></a>
 
+[![by ilta](https://img.shields.io/badge/by%20ilta-FF9696?style=flat-square&logo=none)](https://ilta222.com/#portfolio)
+
+
+
+    
 </div>
+
+
 
 <h2 align="center">Yo, I am Iliass Syabri 👋</h2>
 

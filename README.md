@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <img src="./assets/gruv5.gif" alt="GIF" width="1000">
-</p>
+</div>
 
 ###### by ilta
 

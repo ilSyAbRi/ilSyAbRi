@@ -1,6 +1,5 @@
-<div align = "center">
-  <img src="./assets/gruv5.gif" alt="GIF" width="auto">
-</div>
+
+  <img src="./assets/gruv5.gif" alt="GIF" width="100%">
 
 ###### by ilta
 

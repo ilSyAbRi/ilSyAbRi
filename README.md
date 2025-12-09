@@ -1,7 +1,11 @@
 
-  <video src="./assets/ezgif-2cd2e4d2d7f1813c.mp4" width="100%" autoplay loop muted playsinline></video>
+  <img src="./assets/gruv5.gif" alt="GIF" width="100%">
 
-###### by ilta
+<div align = "right">
+  
+<a href="https://www.pinterest.com/ilta222/"><h6> by ilta</h6></a>
+
+</div>
 
 <h2 align="center">Yo, I am Iliass Syabri 👋</h2>
 

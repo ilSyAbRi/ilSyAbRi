@@ -48,10 +48,9 @@ and learning something new every day.
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilSyAbRi&show_icons=true&count_private=true&theme=gruvbox&hide_border=false&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilSyAbRi&layout=compact&theme=gruvbox" />
-</p>
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ilSyAbRi?cardType=level-alternate&theme=gruvbox&preferLogin=false)](https://git.io/awesome-stats-card)
+
 <p align="center">
   <pre>
       /\_/\  

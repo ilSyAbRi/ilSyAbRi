@@ -47,8 +47,8 @@ and learning something new every day.
 
 ---
 
-## 📊 GitHub Stats
-
+## 📊 My Stats
+[![ilsyabri's 42 stats](https://badge.mediaplus.ma/darkgray/ilsyabri)](https://github.com/oakoudad/badge42)
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ilSyAbRi?cardType=level&theme=gruvbox&showIcons=false&preferLogin=true)](https://git.io/awesome-stats-card)
 
 <p align="center">
@@ -79,7 +79,6 @@ and learning something new every day.
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilSyAbRi&theme=gruvbox" />
 </p>
-
 
 ---
 

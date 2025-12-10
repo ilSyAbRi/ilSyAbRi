@@ -49,7 +49,7 @@ and learning something new every day.
 
 ## 📊 GitHub Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ilSyAbRi?cardType=level-alternate&theme=gruvbox&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ilSyAbRi?cardType=level&theme=nightowl&showIcons=false&preferLogin=true)](https://git.io/awesome-stats-card)
 
 <p align="center">
   <pre>

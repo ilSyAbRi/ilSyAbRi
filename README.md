@@ -47,8 +47,14 @@ and learning something new every day.
 
 ---
 
-## 📊 My Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ilSyAbRi?cardType=level&theme=gruvbox&showIcons=false&preferLogin=true)](https://git.io/awesome-stats-card)
+## 📊 Github Stats
+
+<p align="center">
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ilSyAbRi?cardType=level&theme=gruvbox&showIcons=false&preferLogin=true" />
+  </a>
+</p>
+
 
 <p align="center">
   <pre>

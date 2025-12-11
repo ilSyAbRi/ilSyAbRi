@@ -99,7 +99,6 @@ and learning something new every day.
 </p>
 
 ```
-
            ^...^   m1a
           / o,o \
           |):::(|

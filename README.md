@@ -98,4 +98,13 @@ and learning something new every day.
   📧 <a href="mailto:iliasssyabri1@gmail.com">iliasssyabri1@gmail.com</a>
 </p>
 
+```
+
+           ^...^   m1a
+          / o,o \
+          |):::(|
+        ====w=w===
+```
 [![ilsyabri's 42 stats](https://badge.mediaplus.ma/darkgray/ilsyabri)](https://github.com/oakoudad/badge42)
+
+

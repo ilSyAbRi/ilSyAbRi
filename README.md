@@ -73,10 +73,10 @@ and learning something new every day.
 ---
 ## 🎓 Education
 <p align="center">
-  <a href= "https://um6p.ma/en/ecole-1337" target ="_blank">
+  <a href= "https://um6p.ma/en/ecole-1337">
   <img src="https://img.shields.io/badge/1337-UM6P-0F766E?style=for-the-badge&logoColor=ffffff" />
   </a>
-  <a href= "https://42.fr/en/homepage/" target ="_blank">
+  <a href= "https://42.fr/en/homepage/">
   <img src="https://img.shields.io/badge/42_School-816bc6?style=for-the-badge&logo=42&logoColor=282828" />
   </a>
   <br><br>

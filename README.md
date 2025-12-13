@@ -73,12 +73,15 @@ and learning something new every day.
 ---
 ## 🎓 Education
 <p align="center">
-  <img src="https://img.shields.io/badge/42_School-1337-FABD2F?style=for-the-badge&logo=42&logoColor=282828" />
+  <a href= "https://um6p.ma/en/ecole-1337" target ="_blank">
+  <img src="https://img.shields.io/badge/1337-UM6P-0F766E?style=for-the-badge&logoColor=ffffff" />
+  </a>
+  <a href= "https://42.fr/en/homepage/" target ="_blank">
+  <img src="https://img.shields.io/badge/42_School-816bc6?style=for-the-badge&logo=42&logoColor=282828" />
+  </a>
   <br><br>
-  <small>
     📚 Exploring. Experimenting. Failing. Trying.<br>
     I discovered 42 School / 1337 Espaces as a new playground for adventure 🎨🚀💡
-  </small>
 </p>
 
 <p align="center">

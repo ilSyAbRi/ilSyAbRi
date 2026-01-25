@@ -26,6 +26,8 @@ to explore everything, test everything, and see how things work.
 ## 🚀 Currently Learning
 <p align="center">
   <img src="https://img.shields.io/badge/C-83A598?style=for-the-badge&logo=c&logoColor=282828" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Linux-FABD2F?style=for-the-badge&logo=linux&logoColor=282828" />
   <img src="https://img.shields.io/badge/Makefiles-D3869B?style=for-the-badge&logo=gnu&logoColor=282828" />
 </p>
